@@ -335,3 +335,4 @@ background: url(LOGO.png);
 
 ## Result:
 
+Thus, a web application for event registration is designed and executed successfully.
